@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="/styles.css">
+    </head>
+    <body>
+        <div class="detail">
+            <a href="/">back to main</a>
+            <div>
+                <p><%= message.user %></p>
+                <p class="detailDate"><%= message.added.toLocaleDateString() %></p>
+            </div>
+            <p><%= message.text %></p>
+        </div>
+    </body>
+</html>
