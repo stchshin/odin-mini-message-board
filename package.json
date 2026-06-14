@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/stchshin/odin-mini-message-board/issues"
   },
-  "homepage": "https://github.com/stchshin/odin-mini-message-board#readme"
+  "homepage": "https://github.com/stchshin/odin-mini-message-board#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
 }
