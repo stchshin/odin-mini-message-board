@@ -1,0 +1,21 @@
+{
+  "name": "odin-mini-message-board",
+  "version": "1.0.0",
+  "description": "Mini Message Board from The Odin Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stchshin/odin-mini-message-board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/stchshin/odin-mini-message-board/issues"
+  },
+  "homepage": "https://github.com/stchshin/odin-mini-message-board#readme"
+}
